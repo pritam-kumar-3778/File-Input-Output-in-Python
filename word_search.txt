@@ -1,0 +1,3 @@
+I am Pritam
+I am learning Python now
+I am learning AI/Ml
