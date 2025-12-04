@@ -1,4 +1,5 @@
 # Open the file with read mode.
+# Also readig mode is the default mode.
 f = open("sample.txt", "r")
 
 # Read the file
